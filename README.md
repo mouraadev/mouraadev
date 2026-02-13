@@ -24,5 +24,9 @@ My focus is on using Python to build automations and efficient data solutions.
 
 ### 📫 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-moura-867251324)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI@gmail.com)
+<a href="https://www.linkedin.com/in/ryan-moura-867251324" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="mailto:SEU-EMAIL-AQUI@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" />
+</a>
