@@ -26,7 +26,3 @@ My focus is on using Python to build automations and efficient data solutions.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ryan-moura-867251324)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU-EMAIL-AQUI@gmail.com)
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_title=true&hide_border=true" height="150" />
-</div>
