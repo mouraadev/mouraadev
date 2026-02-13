@@ -5,11 +5,11 @@ My focus is on using Python to build automations and efficient data solutions.
 
 ### About me
 
-👨‍💻 Python Developer based in São Paulo, Brazil 
+### About me
 
-👨‍🎓 Systems Analysis and Development student at Anhembi Morumbi 
-
-📈 Enthusiast of Fintech & Financial Automation
+- 👨‍💻 Python Developer based in São Paulo, Brazil
+- 👨🎓 Systems Analysis and Development student at Anhembi Morumbi
+- 📈 Enthusiast of Fintech & Financial Automation
 
 ### 🛠 Tech Stack
 
