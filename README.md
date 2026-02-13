@@ -1,9 +1,7 @@
-### Hi there! 👋
+## Hello, I'm Ryan :wave:
 
 I am a Systems Analysis and Development student passionate about applying technology to financial markets.
 My focus is on using Python to build automations and efficient data solutions.
-
-### About me
 
 ### About me
 
