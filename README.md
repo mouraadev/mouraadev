@@ -8,4 +8,3 @@ Back-end developer based in São Paulo, Brazil, with a background in IT support 
 
 ![Java, Spring, Python, MySQL, AWS, Docker and Git](https://skillicons.dev/icons?i=java,spring,python,mysql,aws,docker,git&theme=dark)
 
-[LinkedIn](https://www.linkedin.com/in/ryanmoura-dev/)
