@@ -10,6 +10,4 @@ My background in IT support includes troubleshooting hardware, software and netw
 
 [![Languages and Tools](https://skillicons.dev/icons?i=java,spring,python,mysql,aws,docker,git&theme=dark)](https://skillicons.dev)
 
-### Connect
 
-[LinkedIn](https://www.linkedin.com/in/ryanmoura-dev/)
