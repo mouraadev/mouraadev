@@ -1,14 +1,11 @@
 # Ryan Moura
 
-Back-end developer based in São Paulo, Brazil. I build projects with Java, Spring Boot and MySQL, applying object-oriented programming, design patterns and unit testing. My background is in IT support, working with hardware, software, networks and Windows Server environments.
+Back-end developer based in São Paulo, Brazil, with a background in IT support across hardware, software, networks and Windows Server environments. I build projects with Java, Spring Boot and MySQL, applying object-oriented programming, design patterns and unit testing. My projects include REST APIs, database persistence and AI integrations through Spring AI. I also use Python, Git and Docker, with experience organizing code using Clean Architecture and Domain-Driven Design.
+
+---
 
 ### Technologies
 
-![Java, Spring, Python, MySQL, Docker and Git](https://skillicons.dev/icons?i=java,spring,python,mysql,docker,git&theme=dark)
-
-### Selected projects
-
-- **[Personal Budgeting API](https://github.com/mouraadev/budget-spring-ai)** — Records expenses through text and voice using Java, Spring Boot and Spring AI. Uses MySQL for persistence and Docker Compose to run the database.
-- **[E-commerce Order System](https://github.com/mouraadev/design-patterns-ecommerce)** — A Java project applying eight design patterns to a simulated order workflow, with unit tests using JUnit and Mockito.
+![Java, Spring, Python, MySQL, AWS, Docker and Git](https://skillicons.dev/icons?i=java,spring,python,mysql,aws,docker,git&theme=dark)
 
 [LinkedIn](https://www.linkedin.com/in/ryanmoura-dev/)
