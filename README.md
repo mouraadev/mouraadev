@@ -4,7 +4,7 @@ I develop back-end projects with Java, Spring Boot and MySQL, applying object-or
 
 My background in IT support includes troubleshooting hardware, software and networks across multiple business locations, supporting Windows Server environments and creating small automations to simplify everyday tasks. I bring that practical problem-solving experience to software development, with a focus on clear, maintainable code.
 
-### Languages & Tools
+### Languages and Tools
 
 [![Languages and Tools](https://skillicons.dev/icons?i=java,spring,python,mysql,aws,docker,git&theme=dark)](https://skillicons.dev)
 
