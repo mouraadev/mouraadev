@@ -1,34 +1,15 @@
-## Hello, I'm Ryan :wave:
+# Ryan Moura
 
-I am a Systems Analysis and Development student focused on Back-end 
-Development with Java and Spring Boot. I enjoy applying concepts like 
-Clean Architecture and Design Patterns to build well-structured, 
-practical projects.
+### Back-end Developer | Java · Python · MySQL · AWS
 
-### About me
+I develop back-end projects with Java, Spring Boot and MySQL, applying object-oriented programming, design patterns and unit testing. My projects explore Clean Architecture, Domain-Driven Design and AI integrations, with Docker for containerization and foundational knowledge of AWS services such as EC2, S3 and IAM.
 
-- 👨‍💻 Back-end Developer in training, based in São Paulo, Brazil
-- 🎓 Systems Analysis and Development student at Anhembi Morumbi
-- ☕ Focused on Java, Spring Boot and building solid backend fundamentals
-- 🚀 Looking for my first internship opportunity in Software Development
+My background in IT support includes troubleshooting hardware, software and networks across multiple business locations, supporting Windows Server environments and creating small automations to simplify everyday tasks. I bring that practical problem-solving experience to software development, with a focus on clear, maintainable code.
 
-### 🛠 Tech Stack
+### Languages & Tools
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+[![Languages and Tools](https://skillicons.dev/icons?i=java,spring,python,mysql,aws,docker,git&theme=dark)](https://skillicons.dev)
 
+### Connect
 
-### 🌱 Currently Learning
-
-- ☁️ AWS Cloud fundamentals
-- 🧱 Clean Architecture & Domain-Driven Design
-- 🧩 Design Patterns applied to real projects
-
-
-### 📫 Connect with me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ryanmoura-dev)
-[![Email](https://skillicons.dev/icons?i=gmail)](mailto:SEU-EMAIL-REAL-AQUI@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ryanmoura-dev/)
